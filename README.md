@@ -1,0 +1,1 @@
+Aplicação simulando um controle de estoque de uma casa de material de construção.
